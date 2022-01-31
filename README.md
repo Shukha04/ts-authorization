@@ -1,4 +1,4 @@
-# Getting Started with Authorization Example App Created With TypeScript
+# Getting Started with Authorization Server Created With TypeScript
 
 This project created by courses found in internet to practice such skills as Typescript, ExpressJS and ReactJS, how to
 use JWT in authorization server etc. and is just a test version
